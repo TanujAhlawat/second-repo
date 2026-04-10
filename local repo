@@ -1,0 +1,6 @@
+hi this is my second folder which i added using git initial command
+i.e, git init 
+you can check whether your new folder is a git repository or not by checking
+its list 
+i.e, ls-a (this command will show all the hidden files in the folder )
+and to see all the files in the folder we use list command "ls".
